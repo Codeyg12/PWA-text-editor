@@ -19,7 +19,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Another Text Editor'
+        title: 'Just Another Text Editor'
       }),
 
       new InjectManifest({
@@ -60,7 +60,7 @@ module.exports = () => {
             loader: 'babel-loader',
             options: {
               presets: ['@babel/preset-env'],
-              plugins: ['@babel/plugin-transform-runtime']
+              plugins: ['@babel/plugin-proposal-object-rest-spread', '@babel/plugin-transform-runtime']
             }
           }
         }
