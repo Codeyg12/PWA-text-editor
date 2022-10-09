@@ -28,7 +28,11 @@
   
   [License](#license)
 
-  ### Demo
+  ### Demo 
+
+  ↓↓↓ In order to get to the app follow the link below. ↓↓↓
+
+  [Just Another Text Editor](https://safe-lowlands-30141.herokuapp.com/)
 
   Screenshot of the Manifest
   ![manifest](https://user-images.githubusercontent.com/103782398/194732360-37bd1bf6-5f8b-4117-aeb2-ff9e62a877b5.png)
