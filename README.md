@@ -30,7 +30,7 @@
 
   ### Demo 
 
-  ↓↓↓ In order to get to the app follow the link below. ↓↓↓
+  ↓↓↓In order to get to the app follow the link below. ↓↓↓
 
   [Just Another Text Editor](https://safe-lowlands-30141.herokuapp.com/)
 
